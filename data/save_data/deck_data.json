@@ -1,0 +1,289 @@
+{
+  "1": {
+    "cards": [
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 18
+      }
+    ]
+  },
+  "2": {
+    "cards": [
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 18
+      }
+    ]
+  },
+  "3": {
+    "cards": [
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 36
+      }
+    ]
+  },
+  "4": {
+    "cards": [
+      {
+        "name": "SHIELD BREAK",
+        "description": "Lowers Adventurer DEF",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 0,
+          "def_change": 1
+        },
+        "num_cards": 24
+      },
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 30
+      }
+    ]
+  },
+  "5": {
+    "cards": [
+      {
+        "name": "SHIELD BREAK",
+        "description": "Lowers Adventurer DEF",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 0,
+          "def_change": 1
+        },
+        "num_cards": 24
+      },
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 30
+      }
+    ]
+  },
+  "6": {
+    "cards": [
+      {
+        "name": "SHIELD BREAK",
+        "description": "Lowers Adventurer DEF",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 0,
+          "def_change": 1
+        },
+        "num_cards": 18
+      },
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 24
+      },
+      {
+        "name": "WITHER",
+        "description": "Lowers Adventurer HP",
+        "phase": "COMBAT",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 1,
+          "atk_change": 0,
+          "def_change": 0
+        },
+        "num_cards": 12
+      }
+    ]
+  },
+  "7": {
+    "cards": [
+      {
+        "name": "SHIELD BREAK",
+        "description": "Lowers Adventurer DEF",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 0,
+          "def_change": 1
+        },
+        "num_cards": 18
+      },
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 24
+      },
+      {
+        "name": "WITHER",
+        "description": "Lowers Adventurer HP",
+        "phase": "COMBAT",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 1,
+          "atk_change": 0,
+          "def_change": 0
+        },
+        "num_cards": 12
+      }
+    ]
+  },
+  "8": {
+    "cards": [
+      {
+        "name": "SHIELD BREAK",
+        "description": "Lowers Adventurer DEF",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 0,
+          "def_change": 1
+        },
+        "num_cards": 18
+      },
+      {
+        "name": "SWORD BE GONE",
+        "description": "Lowers Adventurer ATK",
+        "phase": "PLAN",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 0,
+          "atk_change": 1,
+          "def_change": 0
+        },
+        "num_cards": 24
+      },
+      {
+        "name": "WITHER",
+        "description": "Lowers Adventurer HP",
+        "phase": "COMBAT",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 1,
+          "atk_change": 0,
+          "def_change": 0
+        },
+        "num_cards": 12
+      },
+      {
+        "name": "RECKONING DAY",
+        "description": "Lowers All Adventurer STATs",
+        "phase": "COMBAT",
+        "tier": "BASIC",
+        "image_path": "path",
+        "card_effect": {
+          "is_buff": false,
+          "character_type": "character",
+          "hp_change": 1,
+          "atk_change": 1,
+          "def_change": 1
+        },
+        "num_cards": 8
+      }
+    ]
+  }
+}
