@@ -1,0 +1,60 @@
+{
+  "START": {
+    "dialogue": [
+      "Alright, let's do this!",
+      "New day, new me. I'm not gonna let any of these adventurers get through!",
+      "I need to stay calm and focus. I know I'll get everyone through this!",
+      "I need to carry on Grandpa's legacy. No, I WILL carry on Grandpa's legacy!",
+      "I'm ready to go!"
+    ]
+  },
+  "DRAW": {
+    "dialogue": [
+      "Which cards did Grandpa gift me?",
+      "Let's see my cards for this round...",
+      "I wonder if I'll see any new cards this time...",
+      "Is Lady Luck smiling at me today?",
+      "Let's hope my card draws are better than my gacha luck..."
+    ]
+  },
+  "PLAN": {
+    "dialogue": [
+      "Let's make sure none of these adventurers get through!",
+      "These guys are going to pay for what they've done to my friends!",
+      "How should I play my cards this time?",
+      "What to do, what to do...",
+      "I'm so tired of being nice. It's time to get down and dirty!"
+    ]
+  },
+  "PRE_COMBAT": {
+    "dialogue": [
+      "Let's see if I played my cards right.",
+      "I hope I didn't miss anything.",
+      "May Grandpa watch over me - no, us.",
+      "Stay strong, my friends.",
+      "We will get through this together!"
+    ]
+  },
+  "COMBAT": {
+    "dialogue": [
+      "Go! Fight! You guys can do this!",
+      "We will not fall here!",
+      "Vengeance will be mine!",
+      "You damn adventurers, just leave us alone!",
+      "The just will prevail!"
+    ]
+  },
+  "DAMAGE": {
+    "dialogue": [
+      "Is it finally over... ?",
+      "Am I alive... ?",
+      "Finally...",
+      "Grandpa, are you watching... ?",
+      "Has my journey been good... ? Is it worth it all... ?"
+    ]
+  },
+  "END": {
+    "dialogue": [
+    ]
+  }
+}

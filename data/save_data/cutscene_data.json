@@ -1,0 +1,110 @@
+{
+  "0": {
+    "events": [
+      {
+        "entity": "LITTLE_GUY",
+        "actions": [
+          {
+            "motion": {
+              "position": {
+                "x": -50,
+                "y": 400
+              },
+              "scale": {
+                "x": 80,
+                "y": 100
+              }
+            },
+            "movement": {
+              "goal_pos": {
+                "x": 400,
+                "y": 400
+              }
+            }
+          }
+        ],
+        "dialogue": [
+          "Wow... Is this my very own dungeon?"
+        ]
+      },
+      {
+        "entity": "LITTLE_GUY",
+        "actions": [
+          {
+            "motion": {
+              "position": {
+                "x": 400,
+                "y": 400
+              },
+              "scale": {
+                "x": 80,
+                "y": 100
+              }
+            },
+            "movement": {
+              "goal_pos": {
+                "x": 300,
+                "y": 400
+              }
+            }
+          }
+        ],
+        "dialogue": [
+          "It's so... uh... musty! And very extremely dank."
+        ]
+      },
+      {
+        "entity": "LITTLE_GUY",
+        "actions": [
+          {
+            "motion": {
+              "position": {
+                "x": 300,
+                "y": 400
+              },
+              "scale": {
+                "x": 80,
+                "y": 100
+              }
+            },
+            "movement": {
+              "goal_pos": {
+                "x": 500,
+                "y": 400
+              }
+            }
+          }
+        ],
+        "dialogue": [
+          "I guess things really did deteriorate after Grandpa disappeared..."
+        ]
+      },
+      {
+        "entity": "LITTLE_GUY",
+        "actions": [
+          {
+            "motion": {
+              "position": {
+                "x": 500,
+                "y": 400
+              },
+              "scale": {
+                "x": 80,
+                "y": 100
+              }
+            },
+            "movement": {
+              "goal_pos": {
+                "x": 350,
+                "y": 400
+              }
+            }
+          }
+        ],
+        "dialogue": [
+          "Woah! What was that noise? I better go check it out."
+        ]
+      }
+    ]
+  }
+}

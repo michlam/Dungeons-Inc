@@ -1,0 +1,268 @@
+{
+	"1": {
+		"name": "Tutorial Level",
+		"depth": 1,
+		"difficulty": 1,
+		"is_unlocked": true,
+		"is_tutorial": true,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": false
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": false
+			}
+		]
+	},
+	"2": {
+		"name": "Level One",
+		"depth": 2,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "RANGER",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": false
+			}
+		]
+	},
+	"3": {
+		"name": "Level Two",
+		"depth": 3,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "RANGER",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	},
+	"4": {
+		"name": "Level Three",
+		"depth": 4,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "RANGER",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	},
+	"5": {
+		"name": "Level Four",
+		"depth": 5,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "RANGER",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 1,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	},
+	"6": {
+		"name": "Level Five",
+		"depth": 5,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	},
+	"7": {
+		"name": "Level Six",
+		"depth": 5,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "RANGER",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 2,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	},
+	"8": {
+		"name": "Level Seven",
+		"depth": 6,
+		"difficulty": 1,
+		"is_unlocked": false,
+		"is_tutorial": false,
+		"enemies": [
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 4,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "WARRIOR",
+				"difficulty_scale": 4,
+				"exp_dropped": 0,
+				"is_alive": true
+			},
+			{
+				"enemy_class": "MAGE",
+				"difficulty_scale": 3,
+				"exp_dropped": 0,
+				"is_alive": true
+			}
+		]
+	}
+}
+
+

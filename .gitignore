@@ -1,0 +1,16 @@
+# folders
+.vs/
+out/
+build/
+enc_temp_folder/
+
+# file extensions
+*.log
+*.exe
+*.out
+*.app
+
+# specific files
+*CMakeLists.txt
+ext/project_path.hpp
+data/save_data/user_data.json
